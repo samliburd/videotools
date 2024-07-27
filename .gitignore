@@ -1,0 +1,10 @@
+*.{mp4,webm,m4a}
+*.mp4
+*.m4a
+*.webm
+.DS_Store
+.gitignore
+.idea/
+__pycache__/
+t2p.py
+probe.py
